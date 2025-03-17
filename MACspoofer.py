@@ -1,7 +1,7 @@
 '''
 Program Description: Change MAC address of desired interface, for LINUX ONLY.
 IDE: Visual Studio Code
-DEV: A D E V
+DEV: TAB$$
 Python: Python 3.11.7
 '''
 
